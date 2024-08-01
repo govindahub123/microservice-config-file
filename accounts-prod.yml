@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Raj - Product Owner"
-    email: "raj@gmail.com"
+    email: "{ciper}d653d21f14c9a1a2775296605ae34c67fd3bec4c62cbb0c4b4f3ef675d18d3c5"
   onCallSupport:
     - (777) 392-4829
     - (888) 203-0384
