@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank Loans related local APIs "
+  contactDetails:
+    name: "Raju - Developer"
+    email: "raju@gmail.com"
+  onCallSupport:
+    - (000) 555-1232
+    - (111) 523-1342
